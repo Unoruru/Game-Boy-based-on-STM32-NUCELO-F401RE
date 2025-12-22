@@ -1,0 +1,7 @@
+../Core/Src/gameobjects.c:12:13:DrawRect	32	static
+../Core/Src/gameobjects.c:22:6:Object_Spawn	16	static
+../Core/Src/gameobjects.c:33:6:Game_Init	16	static
+../Core/Src/gameobjects.c:43:6:Basket_Update	24	static
+../Core/Src/gameobjects.c:58:6:Object_Update	16	static
+../Core/Src/gameobjects.c:69:5:Check_Collision	16	static
+../Core/Src/gameobjects.c:82:6:Game_Draw	40	static

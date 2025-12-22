@@ -1,0 +1,3 @@
+../Core/Src/joystick.c:21:6:Joystick_Init	1
+../Core/Src/joystick.c:27:10:Joystick_GetX	1
+../Core/Src/joystick.c:33:9:Joystick_GetButton	1

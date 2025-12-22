@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:82:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:102:6:StartInputTask	4
+../Core/Src/freertos.c:137:6:StartGameTask	14
+../Core/Src/freertos.c:230:6:StartLedTask	5
